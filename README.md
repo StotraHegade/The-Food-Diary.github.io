@@ -1,1 +1,1 @@
-# The-Food-Diary.github.io
+# The_Food_Diary.github.io
